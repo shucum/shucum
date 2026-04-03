@@ -1,9 +1,41 @@
-# My Stats
-<a href="https://github.com/shucum">
-  <img src="https://github-readme-stats.vercel.app/api?username=shucum&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shucum&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
-</a>
+<!-- MATRIX / SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-## 🌍 Social Media
-- [Discord](https://discordapp.com/users/509408305203118082)
-- [Instagram](https://www.instagram.com/sahnsngul_)
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=INITIALIZING+CONTROL+PANEL...;SYNCING+DISCORD+NODE...;LOADING+OPERATOR+PROFILE...;ACCESS+GRANTED+⚡" />
+</p>
+
+---
+
+## 🟢 SYSTEM STATUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=server" />
+  <img src="https://img.shields.io/badge/MODE-ULTRA%20HACKER-0d0d0d?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL%2099-red?style=for-the-badge&logo=shield" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=900&color=00FF00&center=true&vCenter=true&width=700&lines=FIREWALL+ACTIVE;TRACE+PROTECTION+ON;DISCORD+BOT+ENGINE+RUNNING;DATABASE+SYNCED" />
+</p>
+
+---
+
+## 👤 OPERATOR PROFILE
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starktwo&theme=radical" />
+
+</p>
+
+```yaml id="operator_block"
+👤 NAME: Şahin
+💻 ROLE: Backend Architect
+⚙️ SYSTEM: Discord Automation Engine
+🧠 MODE: DARK OPS
+📡 STATUS: ALWAYS ONLINE
