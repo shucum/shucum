@@ -2,11 +2,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=600&color=00FF41&center=true&vCenter=true&width=820&lines=INITIALIZING+NEURAL+INTERFACE...;BREACHING+FIREWALL+PROTOCOLS...;QUANTUM+ENCRYPTION+ENGAGED...;DARK+OPS+MODE+ACTIVATED+⚡;ACCESS+LEVEL+OVERRIDE+GRANTED" />
 </p>
+
 ---
+
 ## 🟢 SYSTEM STATUS
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=server&logoColor=black" />
