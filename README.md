@@ -28,14 +28,20 @@
 ## 👤 OPERATOR PROFILE
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starktwo&theme=radical" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starktwo&theme=radical" />
 </p>
 
-```yaml id="operator_block"
-👤 NAME: Şahin
-💻 ROLE: Backend Architect
-⚙️ SYSTEM: Discord Automation Engine
-🧠 MODE: DARK OPS
-📡 STATUS: ALWAYS ONLINE
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=900&color=00FF00&center=true&vCenter=true&width=800&lines=IDENTITY+VERIFIED...;NEURAL+PROFILE+SYNCED...;OPERATOR+SIGNATURE+LOCKED;WELCOME+BACK+COMMANDER" />
+</p>
+
+```bash id="operator_core"
+> OPERATOR:     ŞAHİN
+> DESIGNATION:  BACKEND ARCHITECT
+> SYSTEM:       DISCORD AUTOMATION ENGINE
+> CORE MODE:    DARK OPS / NEURAL LINK ACTIVE
+> ACCESS LEVEL: ████████████ 99.9%
+> STATUS:       ONLINE ⚡ (UNINTERRUPTED SESSION)
+> TRACE:        HIDDEN
+> FIREWALL:     IMPENETRABLE
+> LAST SYNC:    REALTIME
