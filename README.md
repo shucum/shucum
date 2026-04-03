@@ -36,6 +36,7 @@
 ---
 
 ## 🛠️ NEURAL PAYLOAD STATUS
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=20&pause=400&color=00FF41&center=true&vCenter=true&width=600&lines=BACKEND+ARCHITECTURE+DEPLOYED...;DISCORD+AUTOMATION+ENGINE+RUNNING...;SHADOW+NETWORK+CONNECTED...;ALL+SYSTEMS+NOMINAL+⚡" />
 </p>
